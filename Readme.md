@@ -1,4 +1,4 @@
- README - Algoritmo "CorrigindoProva"
+README - Algoritmo "CorrigindoProva"
 
 Este algoritmo, denominado "CorrigindoProva", foi desenvolvido para realizar a correção de provas de três alunos. O programa inicia cadastrando o gabarito da prova original e as respostas dos alunos para, em seguida, calcular e exibir as notas finais, bem como a média da turma.
 
