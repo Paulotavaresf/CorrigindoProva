@@ -13,7 +13,7 @@ Em seguida, para cada um dos três alunos, o programa solicita o nome e as respo
  Resultados
 Ao finalizar o cadastro das respostas dos alunos, o programa exibe as notas finais de cada aluno, seguido pela média da turma.
 
- Como Executar
+Como Executar
 1. Abra o Visualg em seu ambiente de desenvolvimento.
 2. Copie e cole o código fornecido no editor do Visualg.
 3. Execute o programa no Visualg.
